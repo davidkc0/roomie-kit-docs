@@ -38,6 +38,7 @@
 
 - [Roomie Kit Cloud overview](managed-hosting/overview.md)
 - [Account and billing](managed-hosting/account-billing.md)
+- [Hosted apps](managed-hosting/hosted-apps.md)
 - [Web vs mobile hosted apps](managed-hosting/web-vs-mobile.md)
 - [Browser login and manual keys](managed-hosting/cli-license.md)
 - [Provider keys](managed-hosting/provider-keys.md)

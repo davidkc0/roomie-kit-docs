@@ -24,4 +24,6 @@ Manual license keys are available from the dashboard as an advanced fallback, bu
 
 Hosted accounts also include the **Hosted Apps** dashboard section. Choose **Web app** for the fastest hosted launch. Choose **Mobile app beta** only when you are ready to work through the native setup checklist for app stores, RevenueCat, and OneSignal.
 
+If you are already on Roomie Kit Cloud and choose Hosted, the checkout upgrades your existing subscription instead of creating a second subscription.
+
 For billing help, email `support@roomiekit.io`.
