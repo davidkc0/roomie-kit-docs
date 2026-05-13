@@ -25,4 +25,14 @@ SUPABASE_SERVICE_ROLE_KEY=
 
 Optional modules may require OneSignal, RevenueCat, push, payment, or cron secrets. Keep optional modules disabled unless those providers are intentionally configured.
 
+Optional hosted app flags:
+
+```bash
+VITE_ENABLE_PAYMENTS=false
+VITE_ENABLE_PUSH=false
+VITE_REVENUECAT_IOS_API_KEY=
+VITE_REVENUECAT_ANDROID_API_KEY=
+VITE_ONESIGNAL_APP_ID=
+```
+
 For Roomie Kit Cloud, the CLI stores local deployment config under `.roomie-host/`, which must stay ignored by git.
