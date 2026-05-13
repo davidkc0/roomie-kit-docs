@@ -41,7 +41,9 @@ The full manual license key is shown once when generated or regenerated. Roomie 
 
 If you lose the key, regenerate it from the account dashboard and run the login command again.
 
-## Plugin install
+## Plugin Install
+
+Roomie Kit Cloud also includes Codex and Claude Code plugins. Both use the same browser login as the CLI.
 
 Claude Code:
 
@@ -57,4 +59,9 @@ Codex:
 codex plugin marketplace add davidkc0/roomie-kit-plugins
 ```
 
-Then enable or install **Roomie Kit** from the Codex Plugins UI.
+Then enable **Roomie Kit** from the Codex Plugins UI.
+
+More detail:
+
+- [Codex plugin](codex-plugin.md)
+- [Claude Code plugin](claude-code-plugin.md)
