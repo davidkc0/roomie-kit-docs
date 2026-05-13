@@ -34,3 +34,15 @@ Health checks should confirm:
 - Asset CDN/base URL responds.
 
 If a deploy fails, rerun with `--resume`.
+
+## Hosted Post-Deploy Checks
+
+Roomie Kit Hosted runs its own checks after Vercel deploys:
+
+- Hosted URL response.
+- Required starter assets.
+- Supabase API response.
+- Agora token CORS.
+- Agora token configuration.
+
+Hosted check results appear on the app card in the account dashboard.
